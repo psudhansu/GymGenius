@@ -96,7 +96,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'fittry',
         'USER': 'root',
-        'PASSWORD': '7317@p',
+        'PASSWORD': 'YOUR_MYSQL_PASSWORD',
         'HOST': 'localhost',   # Use appropriate host if not on localhost
         'PORT': '3306',        # Default MySQL port
     }
