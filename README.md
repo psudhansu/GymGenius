@@ -3,7 +3,7 @@
 </h2> 
 
 <p align="center">
-  <img src="" alt="Description of the image" style="display: block; margin: 0 auto;">
+  <img src="./logo/logo.jpg" alt="Description of the image" style="display: block; margin: 0 auto;">
 </p>
 
 ## Introduction
