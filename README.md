@@ -1,10 +1,12 @@
 <h2 align="center">
   GymGenius
-</h2> 
+</h2>
 
+ 
 <p align="center">
-  <img src="./logo/logo.jpg" alt="Description of the image" style="display: block; margin: 0 auto;">
+  <img src="https://github.com/psudhansu/GymGenius/assets/119405182/d05fe69c-a077-4171-bebc-fad20b6eb172)" alt="Description of the image" style="display: block; margin: 0 auto;">
 </p>
+
 
 ## Introduction
 
